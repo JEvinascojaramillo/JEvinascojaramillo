@@ -33,7 +33,12 @@ I am a financial markets trader and a software development student based in Mede
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JEvinascojaramillo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JEvinascojaramillo&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEvinascojaramillo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEvinascojaramillo&layout=compact&theme=tokyonight" alt="Languages" />
+</p>
+
 
