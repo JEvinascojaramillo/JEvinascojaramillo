@@ -12,6 +12,11 @@ I am a financial markets trader and a software development student based in Mede
 * **Capital Management:** Working towards becoming a funded trader and scaling high-performance accounts.
 
 ## 💻 Tech Stack in Progress
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
 * **Languages:** JavaScript (Learning), Node.js.
 * **Blockchain:** Ethereum Fundamentals, Smart Contracts logic.
 * **Tools:** Git, GitHub, TradingView.
