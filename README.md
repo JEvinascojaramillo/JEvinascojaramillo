@@ -30,6 +30,10 @@ I am a financial markets trader and a software development student based in Mede
 
 ## 📫 Let's Connect
 * 💬 Ask me about: **Trading, Crypto, and Blockchain development.**
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JEvinascojaramillo&show_icons=true&theme=tokyonight&hide_border=false)
 
-![Tus Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JEvinascojaramillo&layout=compact&theme=tokyonight&hide_border=false)
+---
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=JEvinascojaramillo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEvinascojaramillo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
