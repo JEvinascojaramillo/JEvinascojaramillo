@@ -30,7 +30,10 @@ I am a financial markets trader and a software development student based in Mede
 
 ## 📫 Let's Connect
 * 💬 Ask me about: **Trading, Crypto, and Blockchain development.**
+If you are interested in my services, want to collaborate on a project, or just want to chat about Web3 and tech, feel free to reach out through any of the following channels:
 
+* 📧 **Email:** [j.evinascojaramillo@gmail.com]
+* 🐦 **X (Twitter):** [@VJ_Research](https://x.com/VJ_Research)
 ---
 
 <p align="left">
